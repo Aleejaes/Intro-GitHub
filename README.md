@@ -6,4 +6,4 @@ Practica de cambios
 
 Cambios con VSC 
 
-!(Hackademy)(IMG/512-1.png)
+¡(Hackademy)(IMG/512-1.png)
